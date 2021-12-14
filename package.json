@@ -1,9 +1,9 @@
 {
-    "name": "orderbook-for-cryptocurrencies",
+    "name": "",
     "version": "0.0.1",
-    "description": "Orderbook for cryptocurrencies",
+    "description": "",
     "license": "MIT",
-    "author": "Carlo Patti <carlo.patti@outlook.com>",
+    "author": "Joseph Mindo",
     "main": "webpack.config.babel.js",
     "scripts": {
         "build": "cross-env NODE_ENV=production webpack --config webpack.config.babel.js",
